@@ -1,0 +1,78 @@
+
+
+
+Some Projects
+
+A.	https://matchvalley.com/
+
+This fully customizable business profiles display website for the users like Business owners, Investors and consultant. It is developed by Laravel frame work with Mysql back-end Database. I have used the most efficient MVC architecture with structured codes, JavaScript, 
+j-queries and ajax and Json.
+
+
+B.	http://www.uaehardware.com/
+
+This Fully customizable Shopping cart  website developed using Laravel with a MySQL back-end Database. I have used the most efficient MVC architecture with structured codes, JavaScript, j-queries and Ajax.
+
+
+C.	http://preacquaint.com/
+
+This is a story website in which celebrities and famous personalities post their stories and updates etc. This work is developed in Zend framework with a MySQL back-end Database. I have used the most efficient MVC architecture with structured codes, JavaScript, j-queries and Ajax.
+ 
+D.	http://www.madebybloem.nl/
+
+This Fully customizable Photo Gallery website developed using Zend Framework with a MySQL back-end Database. I have used the most efficient MVC architecture with structured codes, JavaScript, j-queries and Ajax.
+
+
+
+E.	http://keepercommish.com/
+
+Fantasy Keeper League Management Site. This site allows to create, manage League and Teams of their League. The system will send notifications to Teams while they are reaching the deadline, different kinds of League Results Publication etc. sections. This site uses Google Checkout for Team’s Account Upgradation
+
+
+
+
+
+F.	http://privatechef.in/
+
+This is a chef’s information portal. This work is developed in CodeIgniter framework with a MySQL back-end Database along with the most efficient MVC architecture with structured codes, JavaScript, j-queries, HTML, CSS and Ajax. 
+
+G.	http://constructionproleads.com/
+
+This is Data management portal of project, Tenders, Companies, Jobs etc. of many countries. This work is developed in CodeIgniter framework with a MySQL back-end Database. I have used the most efficient MVC architecture with structured codes, JavaScript, j-queries and Ajax. 
+
+H.	http://www.ikeralatourist.com/
+
+This is a Kerala tourism information portal. This work is developed in CodeIgniter framework with a MySQL back-end Database. I have used the most efficient MVC architecture with structured codes, JavaScript, j-queries and Ajax. 
+
+I.	http://rramplc.com/
+
+This is content management system. This work is developed in WordPress with a MySQL back-end Database. I have used the most efficient MVC architecture with structured codes, JavaScript, j-queries and Ajax. 
+
+J.	http://peneqinternational.com/
+
+This is content management system. This work is developed in Core PHP with a MySQL back-end Database. I have used the most efficient MVC architecture with structured codes, JavaScript, j-queries and Ajax. 
+
+K.	http://theromanticmoments.com/
+
+This is a Kerala tourism information portal with two languages (Arabic, English). This work is developed in Core PHP with a MySQL back-end Database. I have used the most efficient MVC architecture with structured codes, JavaScript, j-queries and Ajax.
+
+
+
+L.	http://www. mathafreshfish.com/
+
+This is a Online fish sale portal. This work is developed in CodeIgniter framework with a MySQL back-end Database. I have used the most efficient MVC architecture with structured codes, JavaScript, j-queries and Ajax
+
+M.	http://www. demo.kandlelight.com/
+
+This is a Online campaign portal. This work is developed in CodeIgniter framework with a MySQL back-end Database. I have used the most efficient MVC architecture with structured codes, JavaScript, j-queries and Ajax. 
+. 
+
+
+
+
+
+
+
+
+
+
