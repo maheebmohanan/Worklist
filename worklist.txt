@@ -1,70 +1,46 @@
 
 
 
-Some Projects
+Self-Developed Projects (Using PHP & MVC Architecture)
 
-A.	https://matchvalley.com/
+A. MatchValley (Client: MatchValley)
+A fully customizable business profile display platform for Business Owners, Investors, and Consultants. Built using the Laravel framework with a MySQL backend. Implemented an efficient MVC architecture with clean and structured code, integrated with JavaScript, jQuery, Ajax, and JSON for dynamic interactions.
 
-This fully customizable business profiles display website for the users like Business owners, Investors and consultant. It is developed by Laravel frame work with Mysql back-end Database. I have used the most efficient MVC architecture with structured codes, JavaScript, 
-j-queries and ajax and Json.
+B. UAE Hardware (Client: UAE Hardware)
+An e-commerce website with a fully customizable shopping cart system. Developed using Laravel and a MySQL database. Utilized the MVC design pattern along with JavaScript, jQuery, and Ajax for responsive user experience.
 
+C. Preacquaint (Client: Preacquaint)
+A storytelling platform where celebrities and notable figures share updates and personal stories. Developed using the Zend framework with a MySQL backend. Implemented clean MVC structure and enhanced functionality using JavaScript, jQuery, and Ajax.
 
-B.	http://www.uaehardware.com/
+D. MadeByBloem (Client: MadeByBloem)
+A dynamic photo gallery website, built on the Zend framework with a MySQL database. Applied structured MVC architecture and integrated JavaScript, jQuery, and Ajax for smooth image handling and UI responsiveness.
 
-This Fully customizable Shopping cart  website developed using Laravel with a MySQL back-end Database. I have used the most efficient MVC architecture with structured codes, JavaScript, j-queries and Ajax.
+E. KeeperCommish (Client: KeeperCommish)
+A Fantasy Keeper League Management System that allows users to create and manage leagues and teams. Features include automated deadline notifications and result publications. Integrated Google Checkout for payment processing and account upgrades.
 
+F. PrivateChef (Client: PrivateChef)
+An information portal for chefs, developed using CodeIgniter with a MySQL backend. Employed an MVC pattern with structured coding practices, and used JavaScript, jQuery, HTML, CSS, and Ajax for dynamic page interactions.
 
-C.	http://preacquaint.com/
+G. Construction Pro Leads (Client: Construction Pro Leads)
+A data management portal for projects, tenders, companies, and job listings across various countries. Built on CodeIgniter with MySQL, following a scalable MVC structure. Used JavaScript, jQuery, and Ajax for enhanced usability.
 
-This is a story website in which celebrities and famous personalities post their stories and updates etc. This work is developed in Zend framework with a MySQL back-end Database. I have used the most efficient MVC architecture with structured codes, JavaScript, j-queries and Ajax.
- 
-D.	http://www.madebybloem.nl/
+H. I-Keralatourist (Client: I-Keralatourist)
+A Kerala tourism information portal developed in CodeIgniter with MySQL backend. Employed MVC best practices and technologies like JavaScript, jQuery, and Ajax for content interaction and search.
 
-This Fully customizable Photo Gallery website developed using Zend Framework with a MySQL back-end Database. I have used the most efficient MVC architecture with structured codes, JavaScript, j-queries and Ajax.
+I. R-Ramplc (Client: R-Ramplc)
+A content management system created using WordPress with a MySQL database. Integrated MVC coding approach where applicable, along with JavaScript, jQuery, and Ajax to support dynamic features.
 
+J. Peneq International (Client: Peneq International)
+A content management system developed using Core PHP and MySQL. Followed MVC coding discipline and used JavaScript, jQuery, and Ajax for user-friendly content handling.
 
+K. TheRomanticMoments (Client: TheRomanticMoments)
+A Kerala tourism website supporting Arabic and English languages. Developed in Core PHP with MySQL backend. Applied MVC structure and enhanced multilingual functionality with JavaScript, jQuery, and Ajax.
 
-E.	http://keepercommish.com/
+L. MathaFreshFish (Client: MathaFreshFish)
+An online fish selling portal, created using CodeIgniter and MySQL. Designed with MVC structure, integrated JavaScript, jQuery, and Ajax for smooth cart and order processes.
 
-Fantasy Keeper League Management Site. This site allows to create, manage League and Teams of their League. The system will send notifications to Teams while they are reaching the deadline, different kinds of League Results Publication etc. sections. This site uses Google Checkout for Team’s Account Upgradation
-
-
-
-
-
-F.	http://privatechef.in/
-
-This is a chef’s information portal. This work is developed in CodeIgniter framework with a MySQL back-end Database along with the most efficient MVC architecture with structured codes, JavaScript, j-queries, HTML, CSS and Ajax. 
-
-G.	http://constructionproleads.com/
-
-This is Data management portal of project, Tenders, Companies, Jobs etc. of many countries. This work is developed in CodeIgniter framework with a MySQL back-end Database. I have used the most efficient MVC architecture with structured codes, JavaScript, j-queries and Ajax. 
-
-H.	http://www.ikeralatourist.com/
-
-This is a Kerala tourism information portal. This work is developed in CodeIgniter framework with a MySQL back-end Database. I have used the most efficient MVC architecture with structured codes, JavaScript, j-queries and Ajax. 
-
-I.	http://rramplc.com/
-
-This is content management system. This work is developed in WordPress with a MySQL back-end Database. I have used the most efficient MVC architecture with structured codes, JavaScript, j-queries and Ajax. 
-
-J.	http://peneqinternational.com/
-
-This is content management system. This work is developed in Core PHP with a MySQL back-end Database. I have used the most efficient MVC architecture with structured codes, JavaScript, j-queries and Ajax. 
-
-K.	http://theromanticmoments.com/
-
-This is a Kerala tourism information portal with two languages (Arabic, English). This work is developed in Core PHP with a MySQL back-end Database. I have used the most efficient MVC architecture with structured codes, JavaScript, j-queries and Ajax.
-
-
-
-L.	http://www. mathafreshfish.com/
-
-This is a Online fish sale portal. This work is developed in CodeIgniter framework with a MySQL back-end Database. I have used the most efficient MVC architecture with structured codes, JavaScript, j-queries and Ajax
-
-M.	http://www. demo.kandlelight.com/
-
-This is a Online campaign portal. This work is developed in CodeIgniter framework with a MySQL back-end Database. I have used the most efficient MVC architecture with structured codes, JavaScript, j-queries and Ajax. 
+M. Kandlelight (Client: Kandlelight)
+An online campaign management portal, developed using CodeIgniter and MySQL. The site uses a robust MVC architecture and leverages JavaScript, jQuery, and Ajax for seamless user interactions.
 . 
 
 
